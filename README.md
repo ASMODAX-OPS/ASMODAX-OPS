@@ -44,7 +44,7 @@
     </td>
   </tr>
 </table>
-https://github.com/ASMODAX-OPS/ASMODAX-OPS/blob/main/Night-Coding.gif?raw=true
+
 ---
 
 ### 📊 Performance Metrics
