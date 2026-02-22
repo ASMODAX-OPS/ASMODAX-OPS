@@ -28,15 +28,17 @@
 
 ---
 
+---
+
 ## 📊 Performance & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&hide_border=true" width="96%" />
+  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&hide_border=true&cache_seconds=1800" width="96%" />
 </p>
 
 ---
@@ -44,10 +46,9 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASMODAX-OPS&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ASMODAX-OPS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
----
 
 ## 🤝 Connect With Me
 
