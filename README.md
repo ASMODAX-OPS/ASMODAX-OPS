@@ -1,5 +1,4 @@
-
-</p><img width="5000" height="10000" alt="header" src="https://github.com/user-attachments/assets/24683f7f-2231-4b13-b6f5-c1187554d559" />
+[![ProfileBanner]("https://github.com/user-attachments/assets/24683f7f-2231-4b13-b6f5-c1187554d559"))
 
 <p align="center">
   <a href="https://skillicons.dev">
