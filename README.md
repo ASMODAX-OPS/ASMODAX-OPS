@@ -1,4 +1,4 @@
-[![ProfileBanner]("https://github.com/ASMODAX-OPS/ASMODAX-OPS/blob/main/header.png?raw=true")
+[![ProfileBanner](https://github.com/ASMODAX-OPS/ASMODAX-OPS/blob/main/header.png?raw=true)
 
 <p align="center">
   <a href="https://skillicons.dev">
