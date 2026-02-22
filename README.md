@@ -11,7 +11,3 @@
 
 ![Night-Coding](https://github.com/user-attachments/assets/f894c8bd-d463-474e-8562-3658bfec0111)
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
