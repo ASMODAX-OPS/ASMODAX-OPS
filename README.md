@@ -23,7 +23,6 @@
 💬 Puedes escribirme para charlar sobre música, tecnología, o compartir ideas de proyectos.  
 📫 [Tu correo aquí] – siempre intento responder lo más pronto posible.  
 🌐 Echa un vistazo a mi portafolio y proyectos, ¡estoy abierto a feedback y sugerencias!  
-
     </td>
     <td width="35%" align="center">
       <img src="https://github.com/user-attachments/assets/f894c8bd-d463-474e-8562-3658bfec0111" width="250" alt="Night-Coding"/>
