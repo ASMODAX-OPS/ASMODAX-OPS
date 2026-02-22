@@ -72,25 +72,28 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 🛰️ Telemetry & Network Links
+---
+
+### 🛰️ Telemetry & Network Gateways
 
 <div align="center">
 
-| Protocol | Access Point | Secure Link |
-| :--- | :--- | :--- |
-| **SMTP** | **Email Service** | [Click to Initiate Comm](mailto:fonsecabernalalanfelipe019@gmail.com) |
-| **TCP/IP** | **LinkedIn Node** | [Access Professional Profile](https://linkedin.com/in/tu_perfil) |
-| **UDP** | **Discord Server** | `TuUsuario#0000` |
-
-<br>
-
-[![Connect](https://img.shields.io/badge/ESTABLISH_CONNECTION-0077B5?style=for-the-badge&logo=rocket&logoColor=white)](mailto:tu_correo@ejemplo.com)
-
-</div>
+| Status | Protocol | Access Point | Transmission Link |
+| :---: | :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/-ONLINE-special?style=flat-square&logo=gitbook&logoColor=0077B5&color=0d1117" /> | **SMTP** | **Direct Comms** | [fonsecabernalalanfelipe019@gmail.com](mailto:fonsecabernalalanfelipe019@gmail.com) |
+| <img src="https://img.shields.io/badge/-ENCRYPTED-special?style=flat-square&logo=linkedin&logoColor=0077B5&color=0d1117" /> | **TCP/IP** | **Professional Node** | [linkedin.com/in/alan-fonseca](https://linkedin.com/in/tu_perfil) |
+| <img src="https://img.shields.io/badge/-STREAM-special?style=flat-square&logo=discord&logoColor=0077B5&color=0d1117" /> | **UDP/TLS** | **Community Ops** | `alanfelipe_ops` |
 
 <br />
 
+### ⚡ Operational Action
+[![Establish Secure Connection](https://img.shields.io/badge/INITIALIZE_SECURE_CONNECTION-0077B5?style=for-the-badge&logo=opsgenie&logoColor=white)](mailto:fonsecabernalalanfelipe019@gmail.com)
+
+<br />
+
+</div>
+
 <p align="right">
-  <code>VISTAS DEL SISTEMA:</code>
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ACTIVE-0077B5?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SESSION_ID&color=0077b5&style=flat-square" />
 </p>
