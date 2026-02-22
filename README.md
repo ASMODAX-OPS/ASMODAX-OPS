@@ -67,9 +67,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEB95&center=true&vCenter=true&width=600&lines=%22Me+apasiona+explorar+nuevas+tecnologías+y +%22;%22tengo+una+gran+capacidad+de+aprendizaje+rápido.%22;--+Alan+Fonseca">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FFEB95&center=true&vCenter=true&width=800&lines=%22Me+apasiona+aprender+nuevas+cosas+y+aprendo+r%C3%A1pido.%22;--+Alan+Fonseca" alt="Alan Fonseca Quote" />
 </p>
-
 
 ### 🛰️ Telemetry & Network Links
 
