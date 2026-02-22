@@ -41,7 +41,6 @@
   <a href="https://discordapp.com/users/TU_USUARIO"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" hspace="2"></a>
   <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" hspace="2"></a>
 </p>
-
     </td>
     <td width="45%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&main_color=7aa2f7&ring_color=7dcfff" width="100%"/>
