@@ -31,17 +31,17 @@
     <td width="50%" valign="top">
 
 #### 🤖 Artificial Intelligence
-* **Deep Learning:** Diseño de redes neuronales para análisis de datos complejos.
-* **MLOps:** Automatización del ciclo de vida de modelos en producción.
-* **Neural Security:** Investigación en la protección de modelos contra ataques adversarios.
+* **Deep Learning:** Diseño de redes neuronales para análisis de datos complejos.  
+* **MLOps:** Automatización del ciclo de vida de modelos en producción.  
+* **Neural Security:** Investigación en la protección de modelos contra ataques adversarios.  
 
     </td>
     <td width="50%" valign="top">
 
 #### 🛡️ Cybersecurity Ops
-* **Offensive Security:** Simulación de amenazas y análisis de vulnerabilidades.
-* **Hardening:** Aseguramiento de infraestructuras críticas y kernels Linux.
-* **Cloud Security:** Configuración de entornos AWS bajo estándares de alta seguridad.
+* **Offensive Security:** Simulación de amenazas y análisis de vulnerabilidades.  
+* **Hardening:** Aseguramiento de infraestructuras críticas y kernels Linux.  
+* **Cloud Security:** Configuración de entornos AWS bajo estándares de alta seguridad.  
 
     </td>
   </tr>
@@ -69,10 +69,6 @@
     <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/tu_perfil">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/COMM_LINK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=PROFILE+ACCESSES&color=0077b5&style=flat-square" />
-</p>>
