@@ -20,7 +20,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,aws,git,github,py,mysql,maven,vscode,powershell,postman&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,linux,windows,bash,powershell,git,github&perline=7" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,mysql,maven,vscode,postman&perline=7" /><br>
+    <img src="https://skillicons.dev/icons?i=linkedin,discord&perline=7" />
   </a>
 </p>
 
@@ -35,15 +37,15 @@
 #### ⚙️ DevOps & Automation
 * **CI/CD Journey:** Automatizando flujos de trabajo y despliegues mediante GitHub Actions.
 * **Containerization:** Gestión de entornos aislados y escalables con Docker y K8s.
-* **Infrastructure as Code:** Explorando la provisión de recursos en la nube de forma programática.
+* **Scripting:** Dominio de Python, Bash y PowerShell para la automatización de procesos del sistema.
 
     </td>
     <td width="50%" valign="top">
 
-#### 🛡️ Cybersecurity & DevSecOps
+#### 🛡️ Cybersecurity & Systems
 * **Security Integration:** Enfocado en la filosofía *Shift Left* para detectar fallos desde el código.
-* **System Hardening:** Aplicando políticas de seguridad y defensa en servidores Linux.
-* **Proactive Learning:** Investigando nuevas vulnerabilidades y metodologías de defensa técnica.
+* **Identity & Auth:** Explorando protocolos de autenticación como **Kerberos** en entornos Windows/Linux.
+* **System Hardening:** Aplicando políticas de seguridad y defensa en servidores y terminales.
 
     </td>
   </tr>
@@ -72,6 +74,12 @@
   </a>
   <a href="https://linkedin.com/in/tu_perfil">
     <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
+</p>kedin" />
   </a>
 </p>
 
