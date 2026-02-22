@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🛡️ Cybersecurity Aspirant | DevSecOps | Guitarist 🎸
+# 🛡️ Cybersecurity Aspirant | DevSecOps | IA Engennier 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Pentesting+%26+Cloud+Security;Security+Automation;Metal+Riffs+%26+Clean+Code)](https://git.io/typing-svg)
 
@@ -31,9 +31,6 @@
 * **DevOps:** Automatización de despliegues y seguridad en contenedores.
 * **Continuous Learning:** Estudiante universitario preparándose para certificaciones técnicas de alto nivel.
 
-#### 🎸 Beyond the Code
-* Guitarrista apasionado por el **Metal y Rock**. 
-* Aplico la disciplina del entrenamiento musical (velocidad/precisión) directamente en la optimización de sistemas.
 
 #### 📫 Let's Connect
 <p align="left">
@@ -47,7 +44,7 @@
     </td>
   </tr>
 </table>
-
+https://github.com/ASMODAX-OPS/ASMODAX-OPS/blob/main/Night-Coding.gif?raw=true
 ---
 
 ### 📊 Performance Metrics
