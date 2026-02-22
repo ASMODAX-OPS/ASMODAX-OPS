@@ -1,12 +1,15 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/main/header.png" width="100%" />
-</p>
+
 
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=200&section=header&text=ASMODAX-OPS%20%20&fontSize=80&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/main/header.png" width="100%" />
+</p>
 
 **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
