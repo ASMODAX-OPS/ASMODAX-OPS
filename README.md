@@ -56,28 +56,35 @@
 ### 📊 Mission Progress & System Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&border_color=0077B5&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&border_color=0077B5&title_color=0077B5&text_color=ffffff&bg_color=0d1117&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASMODAX-OPS&theme=tokyonight&fire=7aa2f7&currStreakNum=7aa2f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&border=0077B5&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="97%" />
 </p>
 
 ---
 
-### 🛰️ Telemetry & Contact
+### 🛰️ Telemetry & Network Links
 
-<p align="center">
-  <a href="mailto:tu_correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/tu_perfil">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+| Protocol | Access Point | Secure Link |
+| :--- | :--- | :--- |
+| **SMTP** | **Email Service** | [Click to Initiate Comm](mailto:tu_correo@ejemplo.com) |
+| **TCP/IP** | **LinkedIn Node** | [Access Professional Profile](https://linkedin.com/in/tu_perfil) |
+| **UDP** | **Discord Server** | `TuUsuario#0000` |
+
+<br>
+
+[![Connect](https://img.shields.io/badge/ESTABLISH_CONNECTION-0077B5?style=for-the-badge&logo=rocket&logoColor=white)](mailto:tu_correo@ejemplo.com)
+
+</div>
+
+<br />
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
+  <code>VISTAS DEL SISTEMA:</code>
+  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SESSION_ID&color=0077b5&style=flat-square" />
 </p>
