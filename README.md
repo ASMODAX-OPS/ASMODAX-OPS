@@ -81,7 +81,7 @@
 | Status | Protocol | Access Point | Transmission Link |
 | :---: | :--- | :--- | :--- |
 | <img src="https://img.shields.io/badge/-ONLINE-special?style=flat-square&logo=gitbook&logoColor=0077B5&color=0d1117" /> | **SMTP** | **Direct Comms** | [fonsecabernalalanfelipe019@gmail.com](mailto:fonsecabernalalanfelipe019@gmail.com) |
-| <img src="https://img.shields.io/badge/-ENCRYPTED-special?style=flat-square&logo=linkedin&logoColor=0077B5&color=0d1117" /> | **TCP/IP** | **Professional Node** | [linkedin.com/in/alan-fonseca](https://linkedin.com/in/tu_perfil) |
+| <img src="https://img.shields.io/badge/-ENCRYPTED-special?style=flat-square&logo=linkedin&logoColor=0077B5&color=0d1117" /> | **TCP/IP** | **Professional Node** | [linkedin.com/in/alan-fonseca](https://www.linkedin.com/public-profile/) |
 | <img src="https://img.shields.io/badge/-STREAM-special?style=flat-square&logo=discord&logoColor=0077B5&color=0d1117" /> | **UDP/TLS** | **Community Ops** | `alanfelipe_ops` |
 
 <br />
