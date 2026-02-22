@@ -53,36 +53,30 @@
 
 ---
 
-### 📊 Mission Progress & Analytics
+📊 Mission Progress & System Analytics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&title_color=0077B5&icon_color=0077B5&hide_border=false" width="400" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&title_color=0077B5&hide_border=false" width="300" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=transparent&title_color=0077B5&icon_color=0077B5&text_color=ffffff&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=transparent&title_color=0077B5&text_color=ffffff&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASMODAX-OPS&theme=tokyonight&fire=0077B5&sideNums=0077B5&hide_border=false" width="710" />
 </p>
+
+🛰️ Telemetry & Contact
+<p align="center">
+<a href="mailto:tu_correo@ejemplo.com">
+<img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/tu_perfil">
+<img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+<br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=transparent&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=ffffff" width="100%" />
-</p>
-
----
-
-### 🛰️ Telemetry & Contact
-
-<p align="center">
-  <a href="mailto:tu_correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/tu_perfil">
-    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
-</p>kedin" />
-  </a>
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=PROFILE+ACCESSES&color=0077b5&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
 </p>
