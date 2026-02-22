@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/main/header.png" width="100%" />
 </p>
 
+**<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
+
 <div align="center">
 
 # 🧑‍🚀 Alanfelipe | DevOps & Cybersecurity Apprentice
@@ -51,7 +53,7 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 📊 Mission Progress & System Analytics
 
@@ -64,7 +66,7 @@
   <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&border=0077B5&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="97%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛰️ Telemetry & Network Links
 
@@ -72,7 +74,7 @@
 
 | Protocol | Access Point | Secure Link |
 | :--- | :--- | :--- |
-| **SMTP** | **Email Service** | [Click to Initiate Comm](mailto:tu_correo@ejemplo.com) |
+| **SMTP** | **Email Service** | [Click to Initiate Comm](mailto:fonsecabernalalanfelipe019@gmail.com) |
 | **TCP/IP** | **LinkedIn Node** | [Access Professional Profile](https://linkedin.com/in/tu_perfil) |
 | **UDP** | **Discord Server** | `TuUsuario#0000` |
 
