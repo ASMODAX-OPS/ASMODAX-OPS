@@ -11,6 +11,10 @@
 
 > **"Lo que no sé, lo investigo; lo que investigo, lo aprendo; y lo que aprendo, lo domino."**
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FFEB95&center=true&vCenter=true&width=900&lines=%22Me+apasiona+aprender+nuevas+cosas+y+aprendo+r%C3%A1pido.%22;--+Alan+Fonseca" alt="Alan Fonseca Quote" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=DevOps+Infrastructure+Aspirant;Cloud+Security+Explorer;Continuous+Learner+Mindset;Systems+Hardening+Enthusiast)](https://git.io/typing-svg)
 
 `STATUS: EVOLVING` | `FOCUS: DEVSECOPS_PATH` | `LOCATION: REMOTE_STATION`
@@ -64,11 +68,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FFEB95&center=true&vCenter=true&width=800&lines=%22Me+apasiona+aprender+nuevas+cosas+y+aprendo+r%C3%A1pido.%22;--+Alan+Fonseca" alt="Alan Fonseca Quote" />
-</p>
 
 ### 🛰️ Telemetry & Network Links
 
