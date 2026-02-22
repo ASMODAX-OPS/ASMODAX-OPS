@@ -58,8 +58,6 @@
 
 ### 📊 Mission Progress & System Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&border_color=0077B5&title_color=0077B5&icon_color=0077B5&text_color=ffffff&bg_color=0d1117&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&border_color=0077B5&title_color=0077B5&text_color=ffffff&bg_color=0d1117&hide_border=false" width="48%" />
 </p>
 
