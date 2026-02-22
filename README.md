@@ -35,17 +35,17 @@
     <td width="50%" valign="top">
 
 #### ⚙️ DevOps & Automation
-* **CI/CD Journey:** Automatizando flujos de trabajo y despliegues mediante GitHub Actions.
-* **Containerization:** Gestión de entornos aislados y escalables con Docker y K8s.
-* **Scripting:** Dominio de Python, Bash y PowerShell para la automatización de procesos del sistema.
+* **CI/CD Journey:** Automatizando flujos con GitHub Actions.
+* **Containerization:** Orquestación con Docker y K8s.
+* **Scripting:** Python, Bash y PowerShell para automatización.
 
     </td>
     <td width="50%" valign="top">
 
 #### 🛡️ Cybersecurity & Systems
-* **Security Integration:** Enfocado en la filosofía *Shift Left* para detectar fallos desde el código.
-* **Identity & Auth:** Explorando protocolos de autenticación como **Kerberos** en entornos Windows/Linux.
-* **System Hardening:** Aplicando políticas de seguridad y defensa en servidores y terminales.
+* **Security Integration:** Filosofía *Shift Left* en código.
+* **Identity & Auth:** Protocolos de autenticación (Kerberos).
+* **System Hardening:** Defensa en servidores y terminales.
 
     </td>
   </tr>
@@ -53,30 +53,31 @@
 
 ---
 
-📊 Mission Progress & System Analytics
+### 📊 Mission Progress & System Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&title_color=0077B5&icon_color=0077B5&hide_border=false" width="400" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&title_color=0077B5&hide_border=false" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&title_color=7aa2f7&text_color=ffffff&bg_color=1a1b26&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ASMODAX-OPS&theme=tokyonight&fire=0077B5&sideNums=0077B5&hide_border=false" width="710" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASMODAX-OPS&theme=tokyonight&fire=7aa2f7&currStreakNum=7aa2f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="97%" />
 </p>
 
-🛰️ Telemetry & Contact
+---
+
+### 🛰️ Telemetry & Contact
+
 <p align="center">
-<a href="mailto:tu_correo@ejemplo.com">
-<img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/tu_perfil">
-<img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:tu_correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/COMM_LINK-EMAIL-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/tu_perfil">
+    <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<br />
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ASMODAX-OPS&label=SYSTEM+ACCESSES&color=0077b5&style=flat-square" />
 </p>
