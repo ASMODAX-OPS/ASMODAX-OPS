@@ -15,7 +15,7 @@
 
 # 🧑‍🚀 Alanfelipe | DevOps & Cybersecurity Apprentice
 
-> **"Lo que no sé, lo investigo; lo que investigo, lo aprendo; y lo que aprendo, lo domino."**
+> **"Lo que no sé, lo investigo, lo que investigo, lo aprendo, y lo que aprendo, lo domino."**
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=DevOps+Infrastructure+Aspirant;Cloud+Security+Explorer;Continuous+Learner+Mindset;Systems+Hardening+Enthusiast)](https://git.io/typing-svg)
