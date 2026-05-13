@@ -6,14 +6,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FFEB95&center=true&vCenter=true&width=900&lines=%22Me+apasiona+aprender+nuevas+cosas+y+aprendo+r%C3%A1pido.%22;ATT::+Alan+Fonseca" alt="Alan Fonseca Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=FFEB95&center=true&vCenter=true&width=900&lines=%22Me+apasiona+aprender+nuevas+cosas+y+aprendo+r%C3%A1pido.%22;ATT::/>
 </p>
   
 **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 <div align="center">
 
-# 🧑‍🚀 Alanfelipe | DevOps & Cybersecurity Apprentice
+# 🧑‍🚀 DevOps & Cybersecurity Apprentice
 
 > **"Lo que no sé, lo investigo, lo que investigo, lo aprendo, y lo que aprendo, lo domino."**
 
