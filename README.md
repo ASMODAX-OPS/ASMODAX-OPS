@@ -73,7 +73,7 @@
 
 
 ---
-
+```
 ### 🛰️ Telemetry & Network Gateways
 
 <div align="center">
