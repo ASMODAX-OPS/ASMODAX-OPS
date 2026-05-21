@@ -75,4 +75,76 @@
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🚀 ACTIVE WEAPONRY & EXPERIMENTAL LABS
+
+<table style="width: 100%; border-collapse: collapse; background: linear-gradient(135deg, rgba(138,43,226,0.05) 0%, rgba(0,212,255,0.03) 100%); border: 1px solid #8A2BE2; border-radius: 12px; box-shadow: 0 0 20px rgba(138,43,226,0.08);">
+  <tr>
+    <td style="padding: 25px;">
+      <span style="background: #8A2BE2; color: #fff; padding: 4px 10px; font-size: 11px; font-weight: bold; font-family: monospace; border-radius: 4px;">PROJECT TARGET</span>
+      <h3 style="color: #00d4ff; margin: 10px 0 5px 0; font-family: 'Fira Code', monospace; font-size: 22px;">🐍 GHOSTHOUND SCOUT v2.1</h3>
+      <p style="color: #8b949e; margin: 0 0 18px 0; font-size: 13px; font-style: italic;">Automated Active Directory Reconnaissance & Information Gathering Framework</p>
+      
+      <div style="background: #090d13; border: 1px solid #30363d; border-radius: 8px; padding: 20px; font-family: 'Fira Code', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.8; box-shadow: inset 0 0 10px rgba(0,0,0,0.8);">
+        <span style="color: #ff4444;">[!] INJECTING_MODULES...</span><br/>
+        <span style="color: #8A2BE2;">[+] Module::Scanner</span> ── Subprocesos asíncronos multi-threaded orientados a velocidad de red.<br/>
+        <span style="color: #8A2BE2;">[+] Module::Parser</span>  ── Extracción estructurada automatizada de payloads y respuestas de dominio.<br/>
+        <span style="color: #8A2BE2;">[+] Module::Stealth</span> ── Ofuscación de dependencias dinámicas validando la integridad del PATH.
+      </div>
+      
+      <div style="margin-top: 20px;">
+        <span style="color: #8A2BE2; font-family: monospace; font-size: 12px; font-weight: bold; display: block; margin-bottom: 6px;">CORE LOAD COMPILATION:</span>
+        <div style="background: #161b22; border: 1px solid #30363d; height: 14px; border-radius: 7px; overflow: hidden; padding: 1px;">
+          <div style="background: linear-gradient(90deg, #8A2BE2 0%, #00d4ff 100%); height: 100%; width: 60%; border-radius: 6px;"></div>
+        </div>
+        <span style="color: #8b949e; font-size: 11px; font-family: monospace; display: block; margin-top: 5px;">⚡ Build Status: 60% — Stable Core Architecture</span>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border: 1px solid #30363d; border-radius: 10px; font-family: 'Fira Code', monospace; font-size: 13px;">
+
+📡 **GHOSTHOUND SCOUT 2.1 ── Python Core Automation**
+<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
+  <div style="background: #8A2BE2; height: 100%; width: 60%;"></div>
+</div>
+
+🔥 **HTB Pro Lab: Dante ── Enterprise Environment Compromise**
+<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
+  <div style="background: #00d4ff; height: 100%; width: 35%;"></div>
+</div>
+
+🔬 **Advanced Memory Forensics ── Volatility 3 Internal Triage**
+<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
+  <div style="background: #ff4444; height: 100%; width: 75%;"></div>
+</div>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 MISSION PROGRESS & SYSTEM ANALYTICS
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff4444&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="49%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📡 TELEMETRY & COMMUNICATIONS
+
+<div align="center" style="margin-top: 20px;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tu-perfil)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/tu-id)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ASMODAX-OPS)
+[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&labelColor=0d1117)](https://hackthebox.eu/)
+
+<br/><br/>
+
+```diff
