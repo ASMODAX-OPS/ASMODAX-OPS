@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODASX20&fontSize=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAX&fontSize=50&fontColor=fff&animation=fadeIn)
 
 ## Cybersecurity Enthusiast & Python Developer  
 
