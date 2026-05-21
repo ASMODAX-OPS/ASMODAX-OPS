@@ -29,7 +29,6 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ASMODAX-OPS&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 <br/>
 
