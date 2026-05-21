@@ -1,5 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAX&fontSize=50&fontColor=fff&animation=fadeIn)
 
+> **"Lo que no sé, lo investigo, lo que investigo, lo aprendo, y lo que aprendo, lo domino."**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=DevOps+Infrastructure+Aspirant;Cloud+Security+Explorer;Continuous+Learner+Mindset;Systems+Hardening+Enthusiast)](https://git.io/typing-svg)
+STATUS: EVOLVING | FOCUS: DEVSECOPS_PATH | LOCATION: REMOTE_STATION
+</div>
+
 ## Cybersecurity Enthusiast & Python Developer  
 
 🔒 Passionate about cybersecurity (Red Team, Blue Team, Digital Forensics) | ⚙️ Interested in automation | 🤖 Artificial intelligence enthusiast.
