@@ -1,16 +1,16 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e&color=100:0f3460&height=160&section=header&text=ASMODAX-OPS&fontSize=65&fontAlignY=35&desc=Red%20%26%20Blue%20Team%20|%20DFIR%20|%20Threat%20Intel&descSize=16&descAlignY=55&animation=fadeIn&fontColor=00d4ff" width="100%" />
+# 🔴🔵 ASMODAX-OPS - Red Team & Blue Team Ops
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=00d4ff&center=true&vCenter=true&width=500&lines=AD+Exploitation;Threat+Hunting;Digital+Forensics;Security+Dev" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <code>AD Exploitation</code> • <code>Threat Hunting</code> • <code>Digital Forensics</code> • <code>Security Dev</code>
+</h3>
 
 <div align="center">
   
-  ![Status](https://img.shields.io/badge/STATUS-ACTIVE-00d4ff?style=flat-square)
-  ![Location](https://img.shields.io/badge/Location-Bogotá_CO-purple?style=flat-square)
+  ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-00d4ff?style=flat-square)
+  ![Location](https://img.shields.io/badge/Location-Bogotá_CO-9A4DFF?style=flat-square)
   ![Python](https://img.shields.io/badge/Python-3.9+-3776ab?style=flat-square&logo=python)
-  ![HTB](https://img.shields.io/badge/HTB-9FEF00?style=flat-square&logo=hack-the-box)
-  ![THM](https://img.shields.io/badge/THM-EF3B2D?style=flat-square&logo=tryhackme)
+  ![HTB](https://img.shields.io/badge/HTB-Hacker-9FEF00?style=flat-square)
+  ![THM](https://img.shields.io/badge/THM-Learner-EF3B2D?style=flat-square)
   
 </div>
 
@@ -18,34 +18,23 @@
 
 ## 👤 whoami
 
-<table>
-  <tr>
-    <td width="70%">
-      <pre style="background:#0d1117; border:2px solid #00d4ff; border-radius:8px; padding:12px; color:#00d4ff; font-size:12px;">
+<pre style="background:#0d1117; border:2px solid #00d4ff; border-radius:8px; padding:15px; color:#00d4ff; font-size:13px; text-align:center;">
 ❯ Alan Fonseca | ASMODAX-OPS
 ├─ Role: Cybersecurity Researcher & Security Dev
-├─ Focus: AD Attacks • Memory Forensics • AppSec
+├─ Focus: AD Attacks • Memory Forensics • AppSec  
 ├─ Stack: Python • Bash • PowerShell • Go
 └─ Motto: "Know the enemy within" 🔍
-      </pre>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Z2d2NtZ2M4em90MWR3eXN6cDFwc3pndnBidGZ6NGY1M3drMmRzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="160" alt="Hacker" style="border-radius:8px; border:1px solid #8A2BE2;" />
-    </td>
-  </tr>
-</table>
+</pre>
 
 ---
 
 ## ⚡ TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go,kali,windows,linux,docker,vscode&perline=9&theme=dark" alt="Tech Stack" />
-</p>
+**Languages:** `Python` • `Bash` • `PowerShell` • `Go`
 
-<p align="center">
-  <code>Python</code> • <code>Bash</code> • <code>PowerShell</code> • <code>Kali</code> • <code>Windows</code> • <code>Linux</code> • <code>Docker</code> • <code>Git</code>
-</p>
+**Systems:** `Kali Linux` • `Windows` • `Linux` • `Docker` • `Ubuntu`
+
+**Tools:** `Git` • `VSCode` • `Vim` • `Burp Suite` • `Metasploit`
 
 ---
 
@@ -112,17 +101,21 @@
 
 ## 🚀 PROJECTS
 
-### GHOSTHOUND SCOUT v2.1
-**Advanced AD Reconnaissance Toolkit** | [Repo](https://github.com/ASMODAX-OPS/ghosthound-scout)
+### 🐍 GHOSTHOUND SCOUT v2.1
+**Advanced AD Reconnaissance Toolkit**
 
-```
-✨ Python-based AD enumeration automation
-✨ BloodHound integration • Multi-threaded scanning
+```python
+✨ Python-based Active Directory enumeration
+✨ BloodHound integration • Multi-threaded scanning  
 ✨ HTML reports • REST API • Custom plugins
 ✨ Stealth mode • AMSI bypass • EDR evasion
 ```
 
-**Progress:** `████████░░` 80% | Modules: 12 | Tests: 82% coverage
+**Status:** v2.1.0 | 60% Complete | 12 Modules | 82% Test Coverage
+
+📦 **Modules:** Nmap Enum • AD Recon • Web Scanner • BloodHound • Report Engine
+
+🔗 [Repository](https://github.com/ASMODAX-OPS/ghosthound-scout) | [Wiki](https://github.com/ASMODAX-OPS/ghosthound-scout/wiki) | [Docs](https://ghosthound-scout-docs.readthedocs.io/)
 
 ---
 
@@ -130,9 +123,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00d4ff&title_color=8A2BE2&text_color=c9d1d9)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9)
-![Streak](https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=8A2BE2)
+**GitHub Activity:** Stars • Followers • Public Repos
+
+**Top Languages:** Python • Bash • PowerShell • Go
+
+**Contribution Streak:** 🔥 Active Development
+
+> Visit [github.com/ASMODAX-OPS](https://github.com/ASMODAX-OPS) for full stats
 
 </div>
 
@@ -163,8 +160,6 @@
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ASMODAX-OPS&color=00d4ff&style=flat-square)
 
 **"In the shadows of the network, knowledge becomes power."**
 
