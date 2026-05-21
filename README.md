@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="telegram logo" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo" />
   <img src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" height="25" alt="stackoverflow logo" />
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=black" height="25" alt="spotify logo" />
   <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" alt="whatsapp logo" />
 </div>
 
@@ -28,7 +27,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ASMODAX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ASMODAX&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/trophy-output/trophy.svg" height="150" alt="trophy graph" />
+</div>
+
+###
+
+<br clear="both">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
+  </picture>
 </div>
 
 ###
