@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAS%20&fontSize=50&fontColor=fff&animation=fadeIn)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAX-OPS&fontSize=50&fontColor=fff&animation=fadeIn)
 
 <div align="center">
 
