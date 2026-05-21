@@ -119,12 +119,12 @@
 
 ### 🔍 Incident Response & Forensics
 ```
-► Log Analysis & Triage [████████████] Active
-► IOC Hunting           [█████████░░░] Active
-► Wireshark / tcpdump   [████████████] Active
-► Memory Forensics      [██████░░░░░░] Learning
-► Chain of Custody      [████████░░░░] Learning
-► Threat Intelligence   [███████░░░░░] Research
+► Log Analysis & Triage [█████░░░░] Active
+► IOC Hunting           [█████░░  ] Active
+► Wireshark / tcpdump   [█████░░░░] Active
+► Memory Forensics      [█████░░░░░░] Learning
+► Chain of Custody      [█████░░░░] Learning
+► Threat Intelligence   [█████░░░░░] Research
 ```
 
     </td>
@@ -162,25 +162,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Certification Roadmap
-
-<div align="center">
-
-```
-                    CERTIFICATION PATH
-─────────────────────────────────────────────────────────
-  [✔] eJPT    — Entry Level Penetration Tester
-  [⚡] OSCP    — Offensive Security Certified Professional  ◄ CURRENT
-  [ ] CRTO    — Certified Red Team Operator
-  [ ] CRTE    — Certified Red Team Expert
-  [ ] PNPT    — Practical Network Penetration Tester
-  [ ] eCPPTv3 — Certified Professional Penetration Tester
-─────────────────────────────────────────────────────────
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
