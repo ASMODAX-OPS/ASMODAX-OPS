@@ -1,12 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAX&fontSize=50&fontColor=fff&animation=fadeIn)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=250&section=header&text=ASMODAX-OPS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%F0%9F%94%B4%20Red%20Team%20%7C%20%F0%9F%94%B5%20Blue%20Team%20%7C%20Cybersecurity%20Student&descAlignY=65&descSize=20&descColor=00d4ffcc)
 
 ## Cybersecurity Enthusiast & Python Developer  
 
+
 🔒 Passionate about cybersecurity (Red Team, Blue Team, Digital Forensics) | ⚙️ Interested in automation | 🤖 Artificial intelligence enthusiast.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
