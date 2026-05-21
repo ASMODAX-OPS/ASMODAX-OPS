@@ -84,13 +84,11 @@
         <h3 style="color: #8A2BE2; margin: 0 0 5px 0; font-family: monospace; font-size: 20px;">🐍 GHOSTHOUND SCOUT v2.1</h3>
       </div>
       <p style="color: #8b949e; margin: 0 0 15px 0; font-size: 13px; font-style: italic;">Advanced Active Directory Reconnaissance & Automation Gathering Framework</p>
-      
       <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 18px; font-family: monospace; font-size: 13px; color: #c9d1d9; line-height: 1.7;">
         <span style="color: #00d4ff;">[+] Module::Scanner</span> ── Ejecución asíncrona multi-threaded para reconocimiento rápido de red.<br/>
         <span style="color: #00d4ff;">[+] Module::Parser</span>  ── Correlación dinámica de datos raw mediante subprocesos nativos en Python.<br/>
         <span style="color: #00d4ff;">[+] Module::Stealth</span> ── Sanitización de entorno y validación automatizada de binarios en el PATH del sistema.
       </div>
-      
       <div style="margin-top: 15px;">
         <span style="color: #8A2BE2; font-family: monospace; font-size: 12px; font-weight: bold; display: block; margin-bottom: 5px;">TACTICAL LOADOUT PROGRESS:</span>
         <div style="background: #161b22; border: 1px solid #30363d; height: 12px; border-radius: 6px; overflow: hidden;">
