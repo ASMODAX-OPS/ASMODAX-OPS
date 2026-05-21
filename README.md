@@ -1,150 +1,114 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
-
-# 🌌 OPERATOR :: ASMODAX-OPS
-
-> **"Lo que no sé, lo investigo, lo que investigo, lo aprendo, y lo que aprendo, lo domino."**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Active+Directory+Attacks;Threat+Intelligence+%26+DFIR;Security+Tool+Development;SOC+Analysis)](https://git.io/typing-svg)
-
-<br/>
-
-`📡 TELEMETRY: ACTIVE` • `🛸 NODE: DEVSECOPS_STATION` • `📍 COORD: BOGOTÁ, CO 🇨🇴`
-
----
-
-![](https://komarev.com/ghpvc/?username=ASMODAX-OPS&color=00d4ff&style=flat-square&label=CORE+SYSTEM+TRAFFIC)
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="60" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="60" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="60" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="60" alt="safari logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+###
 
-### 👤 $ BIOS // SYSTEM IDENTITY
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="25" alt="spotify logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-<table align="center" style="border-collapse: collapse; width: 100%; border: none;">
-  <tr style="border: none;">
-    <td style="padding: 22px; background: linear-gradient(135deg, rgba(0,212,255,0.08) 0%, rgba(138,43,226,0.08) 100%); border-radius: 12px; border: 1px solid #00d4ff; box-shadow: 0px 0px 15px rgba(0,212,255,0.1); font-family: 'Fira Code', monospace;">
-      <span style="color: #8A2BE2; font-weight: bold;">[ SYSTEM OVERVIEW ]</span><br/>
-      <code style="color: #c9d1d9; font-size: 13px; line-height: 1.9;">
-❯ <span style="color: #00d4ff;">Operator:</span> Alan Fonseca | ASMODAX-OPS<br/>
-├─ <span style="color: #00d4ff;">Core Class:</span> Cybersecurity Researcher & SecOps Developer<br/>
-├─ <span style="color: #00d4ff;">Specialization:</span> Active Directory Exploitation • Threat Hunting • Memory Forensics<br/>
-└─ <span style="color: #00d4ff;">Directive:</span> "Understand the attack vector to engineer the bulletproof defense." 🛡️
-      </code>
-    </td>
-  </tr>
-</table>
+###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ASMODAX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
-### 📡 TECHNICAL ECOSYSTEM (MISSION TOOLS)
+###
 
-<p align="center" style="background: rgba(255,255,255,0.02); padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,powershell,kali,windows,docker,vscode,linux,mysql,git,github,obsidian,discord&perline=7&theme=dark" />
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ASMODAX">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ASMODAX&count=10&unique=true" alt="Spotify recently played"  />
   </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🛠️ CORE COMPETENCIES (TACTICAL GRID)
-
-<table align="center" style="border-collapse: separate; border-spacing: 15px; width: 100%;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 22px; background: linear-gradient(180deg, rgba(255,68,68,0.04) 0%, rgba(0,0,0,0) 100%); border: 1px solid #ff4444; border-radius: 12px; box-shadow: 0 4px 20px rgba(255,68,68,0.05);">
-      <h4 style="color: #ff4444; margin-top: 0; font-family: 'Fira Code', monospace; font-size: 16px; letter-spacing: 1px;">
-        🔴 OFFENSIVE OPERATIONS [RED]
-      </h4>
-      <hr style="border: 0; border-top: 1px solid rgba(255,68,68,0.2); margin: 12px 0;"/>
-      <ul style="padding-left: 15px; font-size: 13px; color: #c9d1d9; line-height: 1.8; list-style-type: '⚡ ';">
-        <li><strong>Active Directory:</strong> Ataques de identidad cruzada (<code>Kerberoasting</code>, <code>AS-REP Roasting</code>), replicación maliciosa <code>DCSync</code> y auditoría gráfica de topologías con <code>BloodHound</code>.</li>
-        <li><strong>Exploitation & Pivoting:</strong> Rotura de perímetros y evasión de segmentación interna usando <code>Ligolo-ng</code> (Layer 2) y túneles SSH/<code>Chisel</code>.</li>
-        <li><strong>C2 Architectures:</strong> Configuración, esteganografía y despliegue de implantes sigilosos utilizando entornos dinámicos de <code>Sliver</code> y <code>Mythic</code>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 22px; background: linear-gradient(180deg, rgba(0,212,255,0.04) 0%, rgba(0,0,0,0) 100%); border: 1px solid #00d4ff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,212,255,0.05);">
-      <h4 style="color: #00d4ff; margin-top: 0; font-family: 'Fira Code', monospace; font-size: 16px; letter-spacing: 1px;">
-        🔵 DEFENSIVE SECURITY & DFIR [BLUE]
-      </h4>
-      <hr style="border: 0; border-top: 1px solid rgba(0,212,255,0.2); margin: 12px 0;"/>
-      <ul style="padding-left: 15px; font-size: 13px; color: #c9d1d9; line-height: 1.8; list-style-type: '🛡️ ';">
-        <li><strong>Digital Forensics:</strong> Volcados y análisis forense de memoria volátil RAM mediante <code>Volatility 3</code> y caza de artefactos persistentes del Kernel.</li>
-        <li><strong>Threat Detection:</strong> Ingeniería de firmas avanzadas (Reglas <code>YARA</code> para empaquetados de malware y Reglas <code>Sigma</code> estandarizadas para SIEM).</li>
-        <li><strong>SIEM & Auditing:</strong> Monitorización activa, análisis de telemetría de endpoints con <code>Sysmon</code> y hunting estructurado en <code>Splunk</code> y <code>ELK Stack</code>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🚀 ACTIVE WEAPONRY & EXPERIMENTAL LABS
-
-<table style="width: 100%; border-collapse: collapse; background: linear-gradient(135deg, rgba(138,43,226,0.05) 0%, rgba(0,212,255,0.03) 100%); border: 1px solid #8A2BE2; border-radius: 12px; box-shadow: 0 0 20px rgba(138,43,226,0.08);">
-  <tr>
-    <td style="padding: 25px;">
-      <span style="background: #8A2BE2; color: #fff; padding: 4px 10px; font-size: 11px; font-weight: bold; font-family: monospace; border-radius: 4px;">PROJECT TARGET</span>
-      <h3 style="color: #00d4ff; margin: 10px 0 5px 0; font-family: 'Fira Code', monospace; font-size: 22px;">🐍 GHOSTHOUND SCOUT v2.1</h3>
-      <p style="color: #8b949e; margin: 0 0 18px 0; font-size: 13px; font-style: italic;">Automated Active Directory Reconnaissance & Information Gathering Framework</p>
-      
-      <div style="background: #090d13; border: 1px solid #30363d; border-radius: 8px; padding: 20px; font-family: 'Fira Code', monospace; font-size: 13px; color: #c9d1d9; line-height: 1.8; box-shadow: inset 0 0 10px rgba(0,0,0,0.8);">
-        <span style="color: #ff4444;">[!] INJECTING_MODULES...</span><br/>
-        <span style="color: #8A2BE2;">[+] Module::Scanner</span> ── Subprocesos asíncronos multi-threaded orientados a velocidad de red.<br/>
-        <span style="color: #8A2BE2;">[+] Module::Parser</span>  ── Extracción estructurada automatizada de payloads y respuestas de dominio.<br/>
-        <span style="color: #8A2BE2;">[+] Module::Stealth</span> ── Ofuscación de dependencias dinámicas validando la integridad del PATH.
-      </div>
-      
-      <div style="margin-top: 20px;">
-        <span style="color: #8A2BE2; font-family: monospace; font-size: 12px; font-weight: bold; display: block; margin-bottom: 6px;">CORE LOAD COMPILATION:</span>
-        <div style="background: #161b22; border: 1px solid #30363d; height: 14px; border-radius: 7px; overflow: hidden; padding: 1px;">
-          <div style="background: linear-gradient(90deg, #8A2BE2 0%, #00d4ff 100%); height: 100%; width: 60%; border-radius: 6px;"></div>
-        </div>
-        <span style="color: #8b949e; font-size: 11px; font-family: monospace; display: block; margin-top: 5px;">⚡ Build Status: 60% — Stable Core Architecture</span>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div style="background: rgba(0,0,0,0.2); padding: 15px; border: 1px solid #30363d; border-radius: 10px; font-family: 'Fira Code', monospace; font-size: 13px;">
-
-📡 **GHOSTHOUND SCOUT 2.1 ── Python Core Automation**
-<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
-  <div style="background: #8A2BE2; height: 100%; width: 60%;"></div>
 </div>
 
-🔥 **HTB Pro Lab: Dante ── Enterprise Environment Compromise**
-<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
-  <div style="background: #00d4ff; height: 100%; width: 35%;"></div>
+###
+
+<div align="left">
+  <img height="200" src="https://imgflip.com/gif/asc9on"  />
 </div>
 
-🔬 **Advanced Memory Forensics ── Volatility 3 Internal Triage**
-<div style="background: #161b22; border: 1px solid #30363d; height: 10px; border-radius: 5px; margin: 6px 0; overflow: hidden;">
-  <div style="background: #ff4444; height: 100%; width: 75%;"></div>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ASMODAX.ASMODAX&"  />
 </div>
 
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📊 MISSION PROGRESS & SYSTEM ANALYTICS
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&theme=tokyonight&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff4444&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" width="49%" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 📡 TELEMETRY & COMMUNICATIONS
-
-<div align="center" style="margin-top: 20px;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/tu-perfil)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com/users/tu-id)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ASMODAX-OPS)
-[![HTB](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black&labelColor=0d1117)](https://hackthebox.eu/)
-
-<br/><br/>
-
-```diff
+###
