@@ -1,6 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=ASMODAX&fontSize=50&fontColor=fff&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=250&section=header&text=ASMODAX-OPS&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=%F0%9F%94%B4%20Red%20Team%20%7C%20%F0%9F%94%B5%20Blue%20Team%20%7C%20Cybersecurity%20Student&descAlignY=65&descSize=20&descColor=00d4ffcc)
 
 ## Cybersecurity Enthusiast & Python Developer  
 
