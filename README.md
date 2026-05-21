@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=ASMODAX&fontSize=40&fontColor=ffffff&color=gradient" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=ASMODAX-OPS&fontSize=40&fontColor=ffffff&color=gradient" width="100%" />
 
   <h1>Hey 👋 What's Up?</h1>
 </div>
@@ -26,8 +26,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ASMODAX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/trophy-output/trophy.svg" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=ASMODAX-OPS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
 ###
@@ -35,9 +35,9 @@
 <br clear="both">
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ASMODAX/ASMODAX/pacman-output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/pacman-output/galaga-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ASMODAX-OPS/ASMODAX-OPS/pacman-output/galaga-contribution-graph.svg">
   </picture>
 </div>
 
@@ -45,12 +45,15 @@
 
 <div align="center">
   <br/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ASMODAX.ASMODAX&left_color=000000&right_color=00d4ff" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ASMODAX-OPS.ASMODAX-OPS&left_color=000000&right_color=00d4ff" alt="visitor badge" />
   <br/><br/>
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontSize=70&fontColor=ffffff&color=gradient" width="100%" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&fontSize=70&fontColor=ffffff&color=gradient" width="100%" />
 </div>
