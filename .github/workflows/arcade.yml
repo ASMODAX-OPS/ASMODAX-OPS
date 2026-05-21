@@ -1,0 +1,30 @@
+name: Generate Arcade Animation
+
+on:
+  # Se ejecuta automáticamente cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate Galaga Game from GitHub Contributions
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/galaga-contribution-graph.svg
+            dist/galaga-contribution-graph-dark.svg?palette=github-dark
+            
+      - name: Push SVG files to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
