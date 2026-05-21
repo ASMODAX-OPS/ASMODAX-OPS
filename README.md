@@ -33,7 +33,7 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASMODAX-OPS&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASMODAX-OPS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117) 
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
